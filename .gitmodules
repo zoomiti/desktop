@@ -7,3 +7,6 @@
 [submodule "dmenu"]
 	path = dmenu
 	url = https://github.com/zoomiti/dmenu.git
+[submodule "st"]
+	path = st
+	url = https://github.com/zoomiti/st.git

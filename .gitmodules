@@ -1,12 +1,12 @@
 [submodule "dwm"]
 	path = dwm
-	url = https://github.com/zoomiti/dwm.git
+	url = git@github.com:zoomiti/dwm.git
 [submodule "slstatus"]
 	path = slstatus
-	url = https://github.com/zoomiti/slstatus.git
+	url = git@github.com:zoomiti/slstatus.git
 [submodule "dmenu"]
 	path = dmenu
-	url = https://github.com/zoomiti/dmenu.git
+	url = git@github.com:zoomiti/dmenu.git
 [submodule "st"]
 	path = st
-	url = https://github.com/zoomiti/st.git
+	url = git@github.com:zoomiti/st.git

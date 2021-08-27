@@ -10,3 +10,6 @@
 [submodule "st"]
 	path = st
 	url = git@github.com:zoomiti/st.git
+[submodule "dwmblocks"]
+	path = dwmblocks
+	url = git@github.com:zoomiti/dwmblocks.git

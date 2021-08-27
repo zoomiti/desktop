@@ -1,9 +1,6 @@
 [submodule "dwm"]
 	path = dwm
 	url = git@github.com:zoomiti/dwm.git
-[submodule "slstatus"]
-	path = slstatus
-	url = git@github.com:zoomiti/slstatus.git
 [submodule "dmenu"]
 	path = dmenu
 	url = git@github.com:zoomiti/dmenu.git

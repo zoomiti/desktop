@@ -4,12 +4,12 @@
 [submodule "dmenu"]
 	path = dmenu
 	url = https://github.com/zoomiti/dmenu.git
-[submodule "st"]
-	path = st
-	url = https://github.com/zoomiti/st.git
 [submodule "dwmblocks"]
 	path = dwmblocks
 	url = https://github.com/zoomiti/dwmblocks.git
 [submodule "dotfiles"]
 	path = dotfiles
 	url = https://github.com/zoomiti/dotfiles.git
+[submodule "st"]
+	path = st
+	url = https://github.com/zoomiti/st.git
